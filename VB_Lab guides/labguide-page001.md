@@ -20,3 +20,4 @@ Ordered list:
 ## Architecture Diagram:
 ##### External Link:
 ![Architecture diagram](https://raw.githubusercontent.com/SpektraSystems/CloudLabs-Azure/master/azure-virtual-machine-and-compute/instructions/images/azure-vm-arch-diagram.png)
+
