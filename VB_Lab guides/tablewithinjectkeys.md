@@ -1,13 +1,13 @@
 | Key | Value |
 |----------|----------|
-| Azure Username | <inject cloudname="AZURE" enableCopy="true" enableClickToPaste="false" defaultValue="azureaduseremail"/> |
-| Azure Password | <inject cloudname="AZURE" enableCopy="true" enableClickToPaste="false" defaultValue="azureaduserpassword"/> |
-|Access Key |<inject cloudname="AZURE" enableCopy="true" enableClickToPaste="false" defaultValue="accesskey"/>|
-|Display Name |<inject cloudname="AZURE" enableCopy="true" enableClickToPaste="false" defaultValue="displayname"/>|
-|Secret Key |<inject cloudname="AZURE" enableCopy="true" enableClickToPaste="false" defaultValue="secretkey"/>|
-|Subscription ID |<inject cloudname="AZURE" enableCopy="true" enableClickToPaste="false" defaultValue="subscriptionid"/>|
-|Tenant ID |<inject cloudname="AZURE" enableCopy="true" enableClickToPaste="false" defaultValue="tenantid"/>|
-|Tenant Domain Name|<inject cloudname="AZURE" enableCopy="true" enableClickToPaste="false" defaultValue="tenantdomainname"/>|
-|Deployment ID|<inject cloudname="AZURE" enableCopy="true" enableClickToPaste="false" defaultValue="cloudlabsdeploymentid"/>|
+| Azure Username | <inject key="azureaduseremail" cloudname="AZURE" enableCopy="true" enableClickToPaste="false"/> |
+| Azure Password |<inject key="azureaduserpassword" cloudname="AZURE" enableCopy="true" enableClickToPaste="false"/>  |
+|Access Key |<inject key="accesskey" cloudname="AZURE" enableCopy="true" enableClickToPaste="false"/>|
+|Display Name |<inject key="displayname" cloudname="AZURE" enableCopy="true" enableClickToPaste="false"/>|
+|Secret Key |<inject key="secretkey" cloudname="AZURE" enableCopy="true" enableClickToPaste="false"/>|
+|Subscription ID |<inject key="subscriptionid" cloudname="AZURE" enableCopy="true" enableClickToPaste="false"/>|
+|Tenant ID |<inject key="tenantid" cloudname="AZURE" enableCopy="true" enableClickToPaste="false"/>|
+|Tenant Domain Name|<inject key="tenantdomainname" cloudname="AZURE" enableCopy="true" enableClickToPaste="false"/>|
+|Deployment ID|<inject key="cloudlabsdeploymentid" cloudname="AZURE" enableCopy="true" enableClickToPaste="false"/>|
 
 
